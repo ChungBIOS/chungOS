@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch
-=======
 .DS_Store
->>>>>>> df921d26a4f434b393da9a31cc95d8229a69580f
