@@ -7,7 +7,7 @@ hello world!
 
 ##Food
 ### Consuming
-[Places to eat](/Places-to-eat .md) <br/>
+[Places to eat](/Places-to-eat.md) <br/>
 
 
 #Time
