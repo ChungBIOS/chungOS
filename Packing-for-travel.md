@@ -3,7 +3,7 @@ Packing-for-travel
 
 I live in London but I travel for work quite a lot. Mainly to cities on direct flights - Berlin, San Francisco, New York. I prefer to travel light, hand baggage only. I can travel with just hand luggage for any trip length. 
 
-##Main tips
+## Main tips
 1. *Packing cubes & pouches* - helps compress clothes into a smaller unit. Pouches for electronics / cables. Reusable ziplock bag for toiletries. I pack a spare packing cube for laundry.
 2. *Pre-packed* - my toiletries and cables are in pre-packed pouches. I use refillable dispensers for 
 2. *Make a list* - unless you travel frequently enough have pre-packed components.
@@ -17,7 +17,7 @@ I live in London but I travel for work quite a lot. Mainly to cities on direct f
 10. *Pack the night before if leaving early* - 
 
 
-##My tools:
+## My tools:
 * Anker power bank and multi USB/ USB-C for laptop - US/UK/EU kettle cables I bought locally
 * Mission Workshop backpack with Archiv system to add more pouches and a day pack.
 * A lot of pouches and refillable dispenser for toilettries from Muji
