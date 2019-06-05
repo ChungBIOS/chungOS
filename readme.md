@@ -1,4 +1,8 @@
-hello world!
+# Backstory
+* I’m a nerd.
+* My friends think I’m robot sometimes as I think and work in systems and am overly rational & logical.
+* I started writing a lot of stuff down about 2 years ago.
+* ChungOS is public released version of my thoughts.
 
 
 # My body
@@ -22,4 +26,4 @@ hello world!
 
 ## People
 ### Ideas
-[link to kato](/kat0.md) <br/>
+[Katy Turner Quotes](/kat0.md) <br/>
