@@ -1,4 +1,4 @@
-Packing for travel
+Packing-for-travel
 
 
 I live in London but I travel for work quite a lot. Mainly to cities on direct flights - Berlin, San Francisco, New York. I prefer to travel light, hand baggage only. I can travel with just hand luggage for any trip length. 
