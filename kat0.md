@@ -1,6 +1,8 @@
-Beauty is defined as something that draws you in. 
-We are drawn to beautiful things. 
+## Quotes from my friend Katy Turner
 
-You have to go through the shit to find the sunshine
+“Beauty is defined as something that draws you in.“ 
+“We are drawn to beautiful things.”
 
-All the things
+“You have to go through the shit to find the sunshine”
+
+“All the things”
