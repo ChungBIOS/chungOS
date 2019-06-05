@@ -3,6 +3,7 @@
 * My friends and colleagues think I’m a robot sometimes as I think and work in systems and am overly rational & logical.
 * I started writing a lot of stuff down about 3 years ago - apparently this is called journaling
 * ChungOS is public released version of my thoughts.
+* Everything here is WIP 
 
 ------
 # My body
@@ -16,7 +17,7 @@
 -------
 # Time
 ### Saving it
-[Setting up software - WIP](/setup.md) <br/>
+[Setting up software](/setup.md) <br/>
 
 ------
 # My mind
