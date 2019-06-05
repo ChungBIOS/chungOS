@@ -1,7 +1,7 @@
 # Backstory
 * I’m a nerd.
-* My friends think I’m robot sometimes as I think and work in systems and am overly rational & logical.
-* I started writing a lot of stuff down about 2 years ago.
+* My friends and colleagues think I’m a robot sometimes as I think and work in systems and am overly rational & logical.
+* I started writing a lot of stuff down about 3 years ago - apparently this is called journaling
 * ChungOS is public released version of my thoughts.
 
 
@@ -27,3 +27,8 @@
 ## People
 ### Ideas
 [Katy Turner Quotes](/kat0.md) <br/>
+
+
+# Data
+* [Leave me feedback here](https://tinyvc.typeform.com/to/dq2IuP)
+
