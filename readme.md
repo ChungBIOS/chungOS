@@ -21,8 +21,9 @@
 
 ------
 # My mind
-### Ideas and stories
-[What I’m “reading” or have “read”](https://www.goodreads.com/review/list/5194707-andy-chung) <br/>
+## Ideas and stories
+[What I’m “reading” or have “read”](https://www.goodreads.com/review/list/5194707-andy-chung) 
+## Learning
 
 --------
 # People
