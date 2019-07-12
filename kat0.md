@@ -1,4 +1,4 @@
-## Quotes from my friend Katy Turner
+## Quotes from Katy Turner, the perfect friend
 
 “Beauty is defined as something that draws you in.“ 
 “We are drawn to beautiful things.”
